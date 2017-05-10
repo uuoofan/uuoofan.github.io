@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://uuoofan.github.io/2017/05/09/aniversary/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uuoofan.github.io/2017/05/08/have-a-good-day/</loc>
     <lastmod>2017-05-08T00:00:00+00:00</lastmod>
   </url>
@@ -19,6 +24,18 @@
   <url>
     <loc>https://uuoofan.github.io/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uuoofan.github.io/tags/aniversary/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uuoofan.github.io/categories/aniversary/</loc>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -46,7 +63,7 @@
   
   <url>
     <loc>https://uuoofan.github.io/post/</loc>
-    <lastmod>2017-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,7 +80,7 @@
   
   <url>
     <loc>https://uuoofan.github.io/</loc>
-    <lastmod>2017-05-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
