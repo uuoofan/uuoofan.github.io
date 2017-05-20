@@ -10,7 +10,7 @@
 export LC_TIME=en_US.UTF-8
 
 # GitHub username.
-USERNAME=942kid
+USERNAME=uuoofan
 # Name of the branch containing the Hugo source files.
 SOURCE=source
 # The commit message.
@@ -22,7 +22,7 @@ msg() {
 
 msg "Pulling down the \`master\` branch into \`public\` to help avoid merge conflicts"
 git subtree pull --prefix=public \
-    git@github.com:$USERNAME/$USERNAME.github.io.git origin master -m "Merge origin master"
+    git@uuoo:$USERNAME/$USERNAME.github.io.git origin master -m "Merge origin master"
 
 msg "Building the website"
 hugo
@@ -34,4 +34,4 @@ git push origin "$SOURCE"
 
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 git subtree push --prefix=public \
-    git@github.com:$USERNAME/$USERNAME.github.io.git master
+    git@uuoo:$USERNAME/$USERNAME.github.io.git master

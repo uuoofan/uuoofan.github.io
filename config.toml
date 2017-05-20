@@ -1,27 +1,24 @@
-baseurl = "/"
+baseurl = "https://uuoofan.github.io/"
 relativeurls = true
 languageCode = "en-us"
-title = "A Hugo website"
+title = "午飯網絡日誌"
 theme = "hugo-lithium-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-98330599-2"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = ":year/:month/:day/:slug/"
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://github.com/uuoofan"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "午飯網絡日誌"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
@@ -33,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "fan.png"
     width = 50
     height = 50
     alt = "Logo"
