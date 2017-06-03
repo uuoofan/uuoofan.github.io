@@ -183,6 +183,81 @@ project，我還是蠻有信心繼續坐下去。就當是好玩也不錯。&lt;
     </item>
     
     <item>
+      <title>A Plain Markdown Post</title>
+      <link>https://uuoofan.github.io/2016/12/30/a-plain-markdown-post/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>https://uuoofan.github.io/2016/12/30/a-plain-markdown-post/</guid>
+      <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;
+&lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; Write an R package.&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Write a book.&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Profit!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Similarly&lt;/em&gt;, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (&lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;hugo-lithium-theme&lt;/a&gt;) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: &lt;code&gt;`$ $`&lt;/code&gt;; display style: &lt;code&gt;`$$ $$`&lt;/code&gt;), e.g., &lt;code&gt;$S_n = \sum_{i=1}^n X_i$&lt;/code&gt;.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:This-is-because&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:This-is-because&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.&lt;/p&gt;
+
+&lt;p&gt;When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the &lt;code&gt;rmd&lt;/code&gt; argument of the function &lt;code&gt;blogdown::new_post()&lt;/code&gt;, e.g.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;blogdown::new_post(&amp;quot;Post Title&amp;quot;, rmd = FALSE)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:This-is-because&#34;&gt;This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., &lt;code&gt;\$50 and $100&lt;/code&gt; renders &amp;ldquo;\$50 and $100&amp;rdquo;. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:This-is-because&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>時差</title>
+      <link>https://uuoofan.github.io/2016/09/13/jet-lag/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://uuoofan.github.io/2016/09/13/jet-lag/</guid>
+      <description>&lt;p&gt;從半下午的睡夢中醒來，夢中自己掉了好多牙齒，雖然一點也不疼，但是就那樣，一顆顆地，被我從嘴裏拿出來，甚至連血都沒有很多。看看表，我訂好的鬧鈴已經過了一個多小時，夕陽打在臉上，屋裏靜悄悄。&lt;/p&gt;
+
+&lt;p&gt;明天就要帶着這十二個小時的時差去參加第一次正式的面試，回來剛好一天，盡在搬家，慌忙，甚至沒有準備該用什麼心情來面對。說歸說，但晚飯拿手菜後，估計還是「該幹點啥就幹點啥」。回想起三周的回國回家，並沒有隔世感，倒像是從未發生的事情——只有一袋袋的運康提醒着我這個事實。北京-天津-北京-太原-北京-太原-北京，厚厚的一摞車票算是沒有再攢起來。火車變得都好快，快到感覺不到旅途；一會兒工夫就到了另一個城市，見到另一些人。我牽着莎莎，想到「上帝先是創造了旅行，然後才是疑慮和鄉愁」。 What
+a long and strange trip!&lt;/p&gt;
+
+&lt;p&gt;這一次，讀到自己十多年前虛榮卻又自卑的文字，驚訝於路人的痛苦表情和司機們的不耐煩，感受着家裏的頹敗和沉默，多想寫一些什麼，可是沒有。像是有一種更大的時差，隔開了我和家人、朋友、甚至街道中擁擠的車輛和路人。我相信是自己在學校裏做學生太久而忘掉了這個世界。到了想念的地方，吃到了想吃的東西，開心，可是事後又覺得沒有那麼開心。鄉愁讓我一次次地回到原點，但我知道每多一次，造作就會多於真實，而那些回憶——不論是視覺，聽覺或是味覺——就會少一些生命力。我只能是感嘆，一遍遍感嘆爲什麼這麼多年過去，我們聯系或不聯系，到最終見了面，仿佛誰也沒法說清對方是否有所改變，或者只是我們在裝出四年前或七年前的我們的樣子，然後用現在的微信把我們的會面支付。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>真誠</title>
+      <link>https://uuoofan.github.io/2016/07/15/sincere/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://uuoofan.github.io/2016/07/15/sincere/</guid>
+      <description>&lt;p&gt;我其實並不清楚「真誠」這個詞的含義。我一直以來以爲自己是個真誠的人，起碼我的頭腦沒有靈活到可以騙人的地步。但是我忽略了一點，就是我可以騙自己——這反而是更大的不真誠。&lt;/p&gt;
+
+&lt;p&gt;這兩個多月來一直打不起精神來做學校的事情，雖然有 meeting，有進展，但是我的心思沒有在，我甚至停止了讀文章，停止了去關注期刊上和自己領域相關的東西。我知道自己做得沒有「那麼差」，但是因爲做得也沒有「那麼好」，讓我懷疑我這樣沉迷與自己不擅長的學術是在幹什麼。所以我轉身去研究「器」，我開始學些 markdown，在一個 ggplot 上面花一晚上的時間，甚至開始用 VIM 然後一天又一天頭痛於不聽話的插件們。把注意力轉移到這些表面的東西上會讓我分心，進而開心，忘掉自己做的東西不被人承認，忘掉每次 meeting 聽到的莫名其妙的話和自己不在動的大腦，忘掉自己四年的博士生涯中幾乎沒有從導師那裏得到過「指導」。&lt;/p&gt;
+
+&lt;p&gt;我知道，是自己騙自己說想要多學一點統計，然後一頭扎進了密西根的樹林；是我自己說腎病研究和生存分析十分相關，然後不斷回絕美娟換組的建議；是我自己說我做的東西雖然老舊，但也有其理論價值，然後花了一年寫出一個別人都懶得看完的證明。我沒有停止騙過自己，因爲我不願回頭，不願認錯，不願讓自己處在 inferior 的地位。&lt;/p&gt;
+
+&lt;p&gt;對，人人都不願意處在 inferior 的地位。我之前對中國學生愛好「歧視」的批評，其實更準確地說是大家都不願意放下自尊處在 inferior 的地位。我們可以有自信到爆炸或者沒自信到吃屎，但是我的自尊不能有絲毫動搖——我從小就是最好的學校最好的班級前三名過來的，我不願在任何時候向人承認我其實不擅長我在做的東西，尤其這東西就是念書時。&lt;/p&gt;
+
+&lt;p&gt;但顯然念博士不是僅僅念書，而用念書的心態來念博士也顯然是在逃避更多的可能。我站在象牙塔（先不說這象牙塔已多麼破爛）裏攻訐外面的虛僞、無聊、重復的無用工作，然後轉身繼續我虛僞的研究，無聊的報告，和無用的一邊又一邊投期刊發文章。或許只有我這樣的 loser 會這樣攻擊學術圈這樣的氛圍和文化，不過我顯然已經過了不腰疼的階段——大部分甚至還在不斷發文章的人們又何嘗不是如此，真正的 research 其實早就幾近滅亡了。There
+are too many of us.&lt;/p&gt;
+
+&lt;p&gt;我要重新做一次「真誠」的嘗試，而且這個嘗試甚至必須成功。我要直視與我對話的人的雙眼，我要做一個 bad ass。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>這是啥？</title>
       <link>https://uuoofan.github.io/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
