@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wp Archive on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/categories/wp-archive/index.xml</link>
+    <link>/categories/wp-archive/index.xml</link>
     <description>Recent content in Wp Archive on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://uuoofan.github.io/categories/wp-archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/wp-archive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>時差</title>
-      <link>https://uuoofan.github.io/2016/09/13/jet-lag/</link>
+      <link>/2016/09/13/jet-lag/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/09/13/jet-lag/</guid>
+      <guid>/2016/09/13/jet-lag/</guid>
       <description>&lt;p&gt;從半下午的睡夢中醒來，夢中自己掉了好多牙齒，雖然一點也不疼，但是就那樣，一顆顆地，被我從嘴裏拿出來，甚至連血都沒有很多。看看表，我訂好的鬧鈴已經過了一個多小時，夕陽打在臉上，屋裏靜悄悄。&lt;/p&gt;
 
 &lt;p&gt;明天就要帶着這十二個小時的時差去參加第一次正式的面試，回來剛好一天，盡在搬家，慌忙，甚至沒有準備該用什麼心情來面對。說歸說，但晚飯拿手菜後，估計還是「該幹點啥就幹點啥」。回想起三周的回國回家，並沒有隔世感，倒像是從未發生的事情——只有一袋袋的運康提醒着我這個事實。北京-天津-北京-太原-北京-太原-北京，厚厚的一摞車票算是沒有再攢起來。火車變得都好快，快到感覺不到旅途；一會兒工夫就到了另一個城市，見到另一些人。我牽着莎莎，想到「上帝先是創造了旅行，然後才是疑慮和鄉愁」。 What
@@ -25,10 +25,10 @@ a long and strange trip!&lt;/p&gt;
     
     <item>
       <title>真誠</title>
-      <link>https://uuoofan.github.io/2016/07/15/sincere/</link>
+      <link>/2016/07/15/sincere/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/07/15/sincere/</guid>
+      <guid>/2016/07/15/sincere/</guid>
       <description>&lt;p&gt;我其實並不清楚「真誠」這個詞的含義。我一直以來以爲自己是個真誠的人，起碼我的頭腦沒有靈活到可以騙人的地步。但是我忽略了一點，就是我可以騙自己——這反而是更大的不真誠。&lt;/p&gt;
 
 &lt;p&gt;這兩個多月來一直打不起精神來做學校的事情，雖然有 meeting，有進展，但是我的心思沒有在，我甚至停止了讀文章，停止了去關注期刊上和自己領域相關的東西。我知道自己做得沒有「那麼差」，但是因爲做得也沒有「那麼好」，讓我懷疑我這樣沉迷與自己不擅長的學術是在幹什麼。所以我轉身去研究「器」，我開始學些 markdown，在一個 ggplot 上面花一晚上的時間，甚至開始用 VIM 然後一天又一天頭痛於不聽話的插件們。把注意力轉移到這些表面的東西上會讓我分心，進而開心，忘掉自己做的東西不被人承認，忘掉每次 meeting 聽到的莫名其妙的話和自己不在動的大腦，忘掉自己四年的博士生涯中幾乎沒有從導師那裏得到過「指導」。&lt;/p&gt;
@@ -46,10 +46,10 @@ are too many of us.&lt;/p&gt;
     
     <item>
       <title>群</title>
-      <link>https://uuoofan.github.io/2016/03/23/group/</link>
+      <link>/2016/03/23/group/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/03/23/group/</guid>
+      <guid>/2016/03/23/group/</guid>
       <description>&lt;p&gt;記得小時候課本里有講，“人能群”。自然，人不是唯一常以群體出現的物種，但人因之而定義自己的社會性，我想是有區別於一般群居生活生物的意義的（至少以人類之自負的角度來看）。畢竟，一群人，或者特別地講，一眾朋友，往往不僅僅是為了繁殖後代和保存自我生命的方便和需要。人的群體，往往為的是更加抽象的共同性。&lt;/p&gt;
 
 &lt;p&gt;過去六年在 LA 和 AA 的時間中，一些境遇讓我不得不一直反思留美中國學生，或者更廣義地講，旅美華人這個群體。過去零散的記載中，有些方面有闡述，但大部分時候，可能只是心中的一個感覺，或者止於和美娟的一些討論。想寫一些東西梳理，可卻因為筆拙而難以付諸行動。然而最近一年來的一些事件和討論，不斷加強了我的一些定見，似乎是時候對我終將離開的這一群體做一總結。鑒於我自己也屬於這個群體，這些總結和定見中我自己也不能被排除在外。我也須承認的是，我真正有所接觸的留學生群，是非常局限的且特殊的一群人。他們大多是國內優秀的大學畢業生，而且往往學習理工科。論家境，大部分人可算中產，有時還會有一些貌似更優渥的。另一些來自於美娟的那些藝術班同學，可作為更年輕、家境更好的一輩的代表。即是是如此特別的一個樣本，我所看到的共性是驚人的，所以不妨作為窺全豹之一斑。&lt;/p&gt;

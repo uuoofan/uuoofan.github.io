@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blabla on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/tags/blabla/index.xml</link>
+    <link>/tags/blabla/index.xml</link>
     <description>Recent content in Blabla on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://uuoofan.github.io/tags/blabla/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/blabla/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>仪式感</title>
-      <link>https://uuoofan.github.io/2017/11/12/ritual-feeling/</link>
+      <link>/2017/11/12/ritual-feeling/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/11/12/ritual-feeling/</guid>
+      <guid>/2017/11/12/ritual-feeling/</guid>
       <description>&lt;p&gt;心中似乎总是有一个想要写些东西的感觉，可话到指尖反而却步。好多事情静静地发生，完成，不知不觉三十年的人生已然走过。坐在家里的电脑前已经让我感到陌生，貌似重新开始家中做事的习惯需要极大的努力，或者至少需要一种仪式。我心里空虚吗？我自问，我想我这样问的时候就已经有了答案。&lt;/p&gt;
 
 &lt;p&gt;但我心里似乎又并不是空虚，而像是老人在慢慢回顾自己一生。那种回忆不是连续的，线性的，合逻辑的，而是像一场没有精心准备的报告一样，在不同的时间里乱跳。这幻灯片跳来跳去也并没有让我这个唯一的观众感到烦躁不安，只是让我好奇。我好奇自己为什么能够像现在这样，这么平静地欣赏我无聊的无知的岁月，没有悔悟，没有救赎。或者我其实是在偷偷完成这个仪式，我在偷偷地准备自己的死亡，过早地盖棺定论并没有让我害臊，反而让我觉得演练多遍其义自现。&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>自己的時間</title>
-      <link>https://uuoofan.github.io/2017/07/27/time-of-ones-own/</link>
+      <link>/2017/07/27/time-of-ones-own/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/07/27/time-of-ones-own/</guid>
+      <guid>/2017/07/27/time-of-ones-own/</guid>
       <description>&lt;p&gt;剛剛開始工作時，會有還在學校的朋友問起工作感覺怎麼樣。我都會回答，挺好的，朝九晚五，回了家就做自己的事，不需要再擔心考試論文做研究，也不需要熬夜寫代碼，就看看小說，胡亂上網。我的回答獲得的總是一種「靠，好好」的反應，因為覺得上班就意味著有了「自己的時間」，至少整個晚上，整個週末都是屬於我的，沒有導師在旁邊催促你叫你做東做西。&lt;/p&gt;
 
 &lt;p&gt;可是才兩個多月的時間，不知是太忙還是太閒，身體就適應不了這八小時僵規之外的自由，我的業餘時間甚至都不知道是如何度過的。五月前還有在 github 上活動一下，五月開寫的新網誌在一個月後就沉寂了。雖然時間統計還在偷用，但是用的熱情也大不如前。不得不承認，堅持做一個什麼事情不是那麼容易的，尤其是這個事情既沒有他人的監督，自己也沒有不得不做的動力。當然不用再提的便是那些書頭，滾落一地。&lt;/p&gt;
@@ -42,10 +42,10 @@ project
     
     <item>
       <title>驕傲遊行</title>
-      <link>https://uuoofan.github.io/2017/06/10/pride/</link>
+      <link>/2017/06/10/pride/</link>
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/06/10/pride/</guid>
+      <guid>/2017/06/10/pride/</guid>
       <description>&lt;p&gt;阿宸和小宇回來快一個禮拜了，中午的時候出門去河邊看了賽龍舟，午飯後又去波士頓瞻仰了一下同志大遊行。沒有什麼斬獲，去得有點晚，只撿到了兩面別人掉下的彩虹旗，還有被人亂塞了一手的潤滑液。回到家，三個人都疲憊不堪，莎莎也處在中間不知道肚子裡的一坨尿要在何處發洩。&lt;/p&gt;
 
 &lt;p&gt;早些時候，阿宸和我開始了我們「煞有介事」的頭一次看房子。兩人穿的破爛，為了彰顯我們的破爛不堪，還一人戴了一頂不成器的帽子。第一家下流的小公寓，和我們同看的只有一個穆斯林女生。被所謂的「3號」騙了的我們以為是頂樓，結果是臨街的一樓。我假裝小孩地不知道該問什麼，只是到處瞅，顯得在打量盤算做決定。第二家稍顯上流，人去得也多，多到兩個房屋中介忙不過來。我們也是糊弄地溜達了一下，就拿著廣告單逃掉了。本來還想下午去更多的地方，因為懶惰和遊行，也都放棄了。&lt;/p&gt;
@@ -56,10 +56,10 @@ project
     
     <item>
       <title>「樹倒了」</title>
-      <link>https://uuoofan.github.io/2017/06/04/the-tree-is-down/</link>
+      <link>/2017/06/04/the-tree-is-down/</link>
       <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/06/04/the-tree-is-down/</guid>
+      <guid>/2017/06/04/the-tree-is-down/</guid>
       <description>&lt;p&gt;過了哭喪著臉的一整天。白天將近結束的時候，下起了小雨。莎莎喘著粗氣在前面顛著，我在她身後跟著走，有所思。和路上的行人擦肩時，我想我一定笑得很難看或者很委屈——但誰又會在意這個呢。&lt;/p&gt;
 
 &lt;p&gt;樹倒了。我在頭腦裡不斷地和自己爭辯著，似乎並不比三個月前的矛盾有所減緩。走在街上，頭居然沒有在痛，直到回家坐到電腦前才又開始懶散地發作。問題又來了，我需要一直寫這個來提醒自己在頭痛嗎？我要的是什麼？是要頭不痛，還是要顯得自己一直在頭痛，而且痛了很久。我過不去。&lt;/p&gt;
@@ -76,10 +76,10 @@ project
     
     <item>
       <title>I remember to forget to remember</title>
-      <link>https://uuoofan.github.io/2017/06/01/remember-to-forget-to-remember/</link>
+      <link>/2017/06/01/remember-to-forget-to-remember/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/06/01/remember-to-forget-to-remember/</guid>
+      <guid>/2017/06/01/remember-to-forget-to-remember/</guid>
       <description>&lt;p&gt;轉眼三個月過去，Jane也要帶著小宇回來了。記得Jane走的時候偷偷下的決心，要鍛鍊，要看書，要好好做飯做菜，要裝飾家，要認真工作，混出人樣。然後我偷偷實現的，是偶爾想起來去跑步機顛一下，買的借的正經書一本無看，媽媽麵大概吃了二十包，家裏多了些莎莎毛，工作基本上出工無出力，頭痛頭偏痛頭偏偏痛。&lt;/p&gt;
 
 &lt;p&gt;下午快下班時，出現了一陣心慌。想到不管是三月裡見James還是四月送別Lei，都被勸說要長個心眼，不要只想technical，因為technical沒那麼管用。可是現實是，我現在一到辦公桌前基本上就是在看technical的東西，而且是想起來啥都需要搞懂一下。所以攤開來看著四五本書。是改繼續硬著頭皮按自己的悶葫蘆法走下去，還是該停下來想一想呢？&lt;/p&gt;
@@ -88,10 +88,10 @@ project
     
     <item>
       <title>PLAC</title>
-      <link>https://uuoofan.github.io/2017/05/24/plac/</link>
+      <link>/2017/05/24/plac/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/24/plac/</guid>
+      <guid>/2017/05/24/plac/</guid>
       <description>&lt;p&gt;拖了兩個禮拜終於鼓起勇氣把Biometrics的文章改了改，以為週五總算可以再投出去了。但郵件發出去沒有半小時，發現自己想太美，至少又得過兩個禮拜才可以。我記起有一次，易說我的這個方法的名字起得有點不大好，唸起來像是一種疾病（plaque），世熹也在一旁嗟嗟稱是。這或許就是發表一下這麼困難，而且留在手上一直頭痛的原因？我又想太多了。&lt;/p&gt;
 
 &lt;p&gt;早些時候，我們終於百般無奈地接受了漲價續房租的事實。然後大概帕波羅從歐洲回來正在賺錢的興頭兒上，趕緊把過去幾個月的水電帳單也收了收。早上出門碰到了樓上神出鬼沒的鄰居，簡單地打了個招呼，沒有什麼好脾氣繼續寒暄下去，人家自然也沒有要講話的意圖。&lt;/p&gt;
@@ -102,10 +102,10 @@ project
     
     <item>
       <title>Living a Borrowed Life</title>
-      <link>https://uuoofan.github.io/2017/05/19/living-a-borrowed-life/</link>
+      <link>/2017/05/19/living-a-borrowed-life/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/19/living-a-borrowed-life/</guid>
+      <guid>/2017/05/19/living-a-borrowed-life/</guid>
       <description>&lt;p&gt;曾經一直想用這個標題寫一篇網誌。在四月底的時候就曾經寫過幾句，但卻沒有寫下去。大概當時還是有感與一些和生死有關的話題，在讀一本講死亡的書，再加上長久的頭痛剛剛開始被注意到。但另一方面，這「借來的生活」似乎又在指我們的日常生活：租別人的房子，撿別人的二手衣服穿，遛狗時到處留意丟在路邊的家具諸如此類。我們的生活好像是在繼續一些被別人半路拋下的東西，讓它們重新在我們身上和身邊活起來，為它們增加一點時間。&lt;/p&gt;
 
 &lt;p&gt;遲來的暖意匆匆掃過，晚上站在後院又開始有了冷風，就著白日裡的餘溫，吹著短短十幾天裡萌發出的一切綠色。想起安普爾在和我道別後又戴著瑪塔在後面澆起花草來，我就想其實她們還是覺得這是她們的家，而我，只是一個借住於此的過客。人對居所的這種依戀或許是天生的，對與我來講，甚至只是帶過一晚的地方，似乎都有著特別的意義。所以每當走過自己住過的地方，像之前走過阿伯村或者現在走過哥倫比亞路，都會對D230，I264和291多看幾眼。看那裏住著新的房客，有了不一樣的擺設，透過半掩的百葉窗想像裡面的樣子。&lt;/p&gt;
@@ -116,10 +116,10 @@ project
     
     <item>
       <title>魔力之夏</title>
-      <link>https://uuoofan.github.io/2017/05/16/magic-summer/</link>
+      <link>/2017/05/16/magic-summer/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/16/magic-summer/</guid>
+      <guid>/2017/05/16/magic-summer/</guid>
       <description>&lt;p&gt;毫無防備地，夏天是一下便來了。 雖然三月四月有過些許預告， 但久久不散的春雨彷彿在無限地拖長本來就已經很漫長的冬天。 五月已經過了一半，但羽絨服都還備著。 加之一直縈繞的頭痛，連冬天的帽子也都還放在手邊。 可是今天一早，一切似乎都變了。 一覺醒來看溫度，竟然已經趕上了昨天的中午時分。下定決心不戴帽子出門遛狗，十多天來第一次體驗到了太陽照在頭髮上的暖度。胡亂吃些早飯，終於可以騎車去上班。 老邁的蘇聯車搖搖晃晃，久不騎車的我也搖搖晃晃。可不到八分鐘，我已經進了公司的大門。&lt;/p&gt;
 
 &lt;p&gt;不變的頭痛今天也慢慢有了變化，開始向後面和右側伸展，擺脫了「偏」頭痛的惡名。再佐以右眼的痘痘和下唇的口瘡，正好給我一日的工作增添幾分色彩。本已遲到的我打開電腦才想起已經錯過一個會，然後一天的時光又在不明白之中慢慢地消磨。眼看toggl上面僅僅有不到三個小時的工作時間，我就已經熬到了下班。辦公室的聲音那麼多那麼雜，卻無一可以讓我擺脫睏意。不知道那治療抑鬱的藥丸為何今天起了作用，坐在電腦螢幕前沒有一刻是清醒，而嘴乾的也一直想要喝水。快到五點時，我瞟一眼手機上的氣溫，終於覺得不可再硬磨時間。拿起頭盔踏起了我的XB3。我就悄悄溜走，做了最早離開的壞榜樣。&lt;/p&gt;
@@ -130,10 +130,10 @@ project
     
     <item>
       <title>狹路相逢</title>
-      <link>https://uuoofan.github.io/2017/05/13/meet-on-a-narrow-road/</link>
+      <link>/2017/05/13/meet-on-a-narrow-road/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/13/meet-on-a-narrow-road/</guid>
+      <guid>/2017/05/13/meet-on-a-narrow-road/</guid>
       <description>&lt;p&gt;昨天第一次向公司請假，去河對岸的MGH看頭痛。因為是門診，所以排隊就佔了一大半的時間。不過相較於去看PCP預約加等待，好像還是效率高一些。醫生十分給我做了一些神經病的基本測試，然後不動聲色地給我開了抑鬱症的藥。自己的緊張已經明顯到要吃藥來治療了。&lt;/p&gt;
 
 &lt;p&gt;晃悠回家取藥的路上，碰到了一個在Central上班的大學同學。沒有很熟，只是同系。兩年前在實習時我就在伽利略路撞見過她，但是當時因為時間匆匆，也沒有敢認。這次總算有點膽量上去問候了一下。坐下來在韓市場，半天也沒有什麼話可講。她只是感慨覺得好玩，居然七年不見，現在撞見。互相留個聯絡方式，遂鳥獸散了。&lt;/p&gt;
@@ -144,10 +144,10 @@ project
     
     <item>
       <title>What did not kill you</title>
-      <link>https://uuoofan.github.io/2017/05/11/what-did-not-kill-you/</link>
+      <link>/2017/05/11/what-did-not-kill-you/</link>
       <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/11/what-did-not-kill-you/</guid>
+      <guid>/2017/05/11/what-did-not-kill-you/</guid>
       <description>&lt;p&gt;理髮，買自行車，連著兩天中午休息時間偷偷逃離公司去亂晃。頭痛尚未見好轉，早上起來幾乎還有加劇的樣子。五月，但還是穿戴著冬天的搶匪帽，出了一頭汗，卻不敢摘。&lt;/p&gt;
 
 &lt;p&gt;中午去自行車店路上吃了一家下流的餐廳。如果仔細讀完菜單，會發現它幾乎什麼都做。但是在門面上，它其實只是賣pizza的。在Kendall呆了三個月，第一次看到這麼多形形色色的人——因為平時已經見慣了周圍大公司小公司裡的小白領們中午拿著個盒飯在街上奔走。第一次看到這麼多建築工人，交通協警，形色匆匆的年輕人，怪老婦，都來這一家顯然他們常光顧的小餐廳，點好外賣又紛紛離去。&lt;/p&gt;
@@ -160,10 +160,10 @@ project
     
     <item>
       <title>Have a good day</title>
-      <link>https://uuoofan.github.io/2017/05/08/have-a-good-day/</link>
+      <link>/2017/05/08/have-a-good-day/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/08/have-a-good-day/</guid>
+      <guid>/2017/05/08/have-a-good-day/</guid>
       <description>&lt;p&gt;快下班是頭痛加劇，無法集中精力看power calculation for McNamara&amp;rsquo;s
 test，雖然躲在一個小huddle
 room，遠離隔壁的大聲哥和大聲姐。回到座位時，麥考利已經走掉了，只剩奧克薩哪還在敲擊鍵盤。我慢吞吞地收拾好東西，離開我的座位回家，離開前還不忘把toggl打開開始計時。&lt;/p&gt;
@@ -183,10 +183,10 @@ project，我還是蠻有信心繼續坐下去。就當是好玩也不錯。&lt;
     
     <item>
       <title>時差</title>
-      <link>https://uuoofan.github.io/2016/09/13/jet-lag/</link>
+      <link>/2016/09/13/jet-lag/</link>
       <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/09/13/jet-lag/</guid>
+      <guid>/2016/09/13/jet-lag/</guid>
       <description>&lt;p&gt;從半下午的睡夢中醒來，夢中自己掉了好多牙齒，雖然一點也不疼，但是就那樣，一顆顆地，被我從嘴裏拿出來，甚至連血都沒有很多。看看表，我訂好的鬧鈴已經過了一個多小時，夕陽打在臉上，屋裏靜悄悄。&lt;/p&gt;
 
 &lt;p&gt;明天就要帶着這十二個小時的時差去參加第一次正式的面試，回來剛好一天，盡在搬家，慌忙，甚至沒有準備該用什麼心情來面對。說歸說，但晚飯拿手菜後，估計還是「該幹點啥就幹點啥」。回想起三周的回國回家，並沒有隔世感，倒像是從未發生的事情——只有一袋袋的運康提醒着我這個事實。北京-天津-北京-太原-北京-太原-北京，厚厚的一摞車票算是沒有再攢起來。火車變得都好快，快到感覺不到旅途；一會兒工夫就到了另一個城市，見到另一些人。我牽着莎莎，想到「上帝先是創造了旅行，然後才是疑慮和鄉愁」。 What
@@ -198,10 +198,10 @@ a long and strange trip!&lt;/p&gt;
     
     <item>
       <title>真誠</title>
-      <link>https://uuoofan.github.io/2016/07/15/sincere/</link>
+      <link>/2016/07/15/sincere/</link>
       <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/07/15/sincere/</guid>
+      <guid>/2016/07/15/sincere/</guid>
       <description>&lt;p&gt;我其實並不清楚「真誠」這個詞的含義。我一直以來以爲自己是個真誠的人，起碼我的頭腦沒有靈活到可以騙人的地步。但是我忽略了一點，就是我可以騙自己——這反而是更大的不真誠。&lt;/p&gt;
 
 &lt;p&gt;這兩個多月來一直打不起精神來做學校的事情，雖然有 meeting，有進展，但是我的心思沒有在，我甚至停止了讀文章，停止了去關注期刊上和自己領域相關的東西。我知道自己做得沒有「那麼差」，但是因爲做得也沒有「那麼好」，讓我懷疑我這樣沉迷與自己不擅長的學術是在幹什麼。所以我轉身去研究「器」，我開始學些 markdown，在一個 ggplot 上面花一晚上的時間，甚至開始用 VIM 然後一天又一天頭痛於不聽話的插件們。把注意力轉移到這些表面的東西上會讓我分心，進而開心，忘掉自己做的東西不被人承認，忘掉每次 meeting 聽到的莫名其妙的話和自己不在動的大腦，忘掉自己四年的博士生涯中幾乎沒有從導師那裏得到過「指導」。&lt;/p&gt;
@@ -219,10 +219,10 @@ are too many of us.&lt;/p&gt;
     
     <item>
       <title>群</title>
-      <link>https://uuoofan.github.io/2016/03/23/group/</link>
+      <link>/2016/03/23/group/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/03/23/group/</guid>
+      <guid>/2016/03/23/group/</guid>
       <description>&lt;p&gt;記得小時候課本里有講，“人能群”。自然，人不是唯一常以群體出現的物種，但人因之而定義自己的社會性，我想是有區別於一般群居生活生物的意義的（至少以人類之自負的角度來看）。畢竟，一群人，或者特別地講，一眾朋友，往往不僅僅是為了繁殖後代和保存自我生命的方便和需要。人的群體，往往為的是更加抽象的共同性。&lt;/p&gt;
 
 &lt;p&gt;過去六年在 LA 和 AA 的時間中，一些境遇讓我不得不一直反思留美中國學生，或者更廣義地講，旅美華人這個群體。過去零散的記載中，有些方面有闡述，但大部分時候，可能只是心中的一個感覺，或者止於和美娟的一些討論。想寫一些東西梳理，可卻因為筆拙而難以付諸行動。然而最近一年來的一些事件和討論，不斷加強了我的一些定見，似乎是時候對我終將離開的這一群體做一總結。鑒於我自己也屬於這個群體，這些總結和定見中我自己也不能被排除在外。我也須承認的是，我真正有所接觸的留學生群，是非常局限的且特殊的一群人。他們大多是國內優秀的大學畢業生，而且往往學習理工科。論家境，大部分人可算中產，有時還會有一些貌似更優渥的。另一些來自於美娟的那些藝術班同學，可作為更年輕、家境更好的一輩的代表。即是是如此特別的一個樣本，我所看到的共性是驚人的，所以不妨作為窺全豹之一斑。&lt;/p&gt;
