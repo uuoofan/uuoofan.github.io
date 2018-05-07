@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyx on 午飯網絡日誌</title>
+    <link>/tags/lyx/</link>
+    <description>Recent content in Lyx on 午飯網絡日誌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2012 03:18:35 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lyx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>强迫症</title>
+      <link>/2012/05/01/ocd/</link>
+      <pubDate>Tue, 01 May 2012 03:18:35 +0000</pubDate>
+      
+      <guid>/2012/05/01/ocd/</guid>
+      <description>强迫症是大学时深入我心的，那时树哥最喜欢给各种各样的同学和老师扣强迫症的帽子。后来，我就给树哥扣了“‘发掘强迫症’强迫症”的帽子。我自己在用电脑上强迫症尤其严重。虽然已经离开电脑能人行列逾十年（可见从初二后就没有进步），但是我碰到问题总是还是忍不住想自己解决。这种情况在使用Ubuntu后尤其加重了。 Ubuntu的版本平均是半年更新一次，一般在4月和10月，分别发布xx.04和xx.10，前面的数字是当年的年份后两位。我从刚来LA那年开始追Ubuntu，到现在已经是第四个版本了。总体感觉就是，用惯了Ubuntu，回到windows很难不惊叹其设计之烂。当然，Ubuntu也有它自己的毛病，就是bug（各种XD）不断。一般升级到一个新版本，前两个月基本上都在安装软件，发现bug和解决bug。这时候你会发现Ubuntu有多么耐心的一个用户群，天天在launchpad上报bug，也同时会发现Ubuntu的bug有多多。 我的另一点强迫症来自于LyX，我从Winter11开始用来写作业的软件。这哥们儿在每次升级过Ubuntu后是毛病最多的，可是偏偏它又是我用得最多的软件，所以不把它调顺手了很难睡着。目前为止用得最顺手的应该还是在猫豹（11.10）里的，但是随着我升级系统失败，狠心装上穿山甲（12.04）后，它老人家又不行了。各种崩溃。本来那天装系统就已经够强迫了，瞪着满是血丝的眼睛看着进度条。今天发现LyX的bug后更是花了一下午时间去google别人的bug报告。果然，没有solution。这意味着我写作业想顺利图文并茂必须去windows；但我又不喜欢win，所以必须在Gedit+Rgedit下编好代码做好图再去。于是乎为了写一个占比重2.5%左右的作业，我就要重启电脑十多次，花费一个周末的时间。这，就叫作自讨苦吃。</description>
+    </item>
+    
+  </channel>
+</rss>
