@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stat611 on 午飯網絡日誌</title>
+    <link>/tags/stat611/</link>
+    <description>Recent content in Stat611 on 午飯網絡日誌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2013 13:16:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/stat611/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forever Young</title>
+      <link>/2013/04/29/forever-young/</link>
+      <pubDate>Mon, 29 Apr 2013 13:16:59 +0000</pubDate>
+      
+      <guid>/2013/04/29/forever-young/</guid>
+      <description>https://soundcloud.com/fan-wu/forever-young
+看来还是有版权问题，嘿嘿。
+https://dl.dropboxusercontent.com/u/65278723/10%20-%20Forever%20Young.mp3</description>
+    </item>
+    
+  </channel>
+</rss>
