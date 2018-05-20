@@ -16,6 +16,6 @@ tags:
 
 莎莎，你看，海！
 
-[caption id="attachment_219" align="alignnone" width="300"][![Bailey Island](https://942kid.files.wordpress.com/2015/07/img_1094.jpg?w=300)](https://942kid.files.wordpress.com/2015/07/img_1094.jpg) SaSa @ Bailey Island[/caption]
+[![Bailey Island](https://942kid.files.wordpress.com/2015/07/img_1094.jpg?w=300)](https://942kid.files.wordpress.com/2015/07/img_1094.jpg) SaSa @ Bailey Island
 
 莎莎，你想不想山？

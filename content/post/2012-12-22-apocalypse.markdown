@@ -1,5 +1,5 @@
 ---
-title: 未日
+title: 末日
 author: Fan Wu
 date: 2012-12-22 03:41:58+00:00
 link: https://942kid.wordpress.com/2012/12/21/%e6%9c%aa%e6%97%a5/
