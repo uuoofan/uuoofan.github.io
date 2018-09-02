@@ -37,3 +37,7 @@ vignettes/*.pdf
 .gitignore
 .DS_Store
 .Rproj.user
+
+# build script
+build-site.R
+
