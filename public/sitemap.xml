@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uuoofan.github.io/2018/09/17/power-now/</loc>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uuoofan.github.io/2018/05/23/now-and-then/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -549,13 +554,13 @@
   </url>
   
   <url>
-    <loc>https://uuoofan.github.io/categories/aniversary/</loc>
+    <loc>https://uuoofan.github.io/tags/aniversary/</loc>
     <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://uuoofan.github.io/tags/aniversary/</loc>
+    <loc>https://uuoofan.github.io/categories/aniversary/</loc>
     <lastmod>2017-05-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -567,26 +572,26 @@
   </url>
   
   <url>
-    <loc>https://uuoofan.github.io/categories/bla/</loc>
-    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://uuoofan.github.io/tags/bla/</loc>
     <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://uuoofan.github.io/categories/blabla/</loc>
-    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+    <loc>https://uuoofan.github.io/categories/bla/</loc>
+    <lastmod>2017-05-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://uuoofan.github.io/tags/blabla/</loc>
     <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uuoofan.github.io/categories/blabla/</loc>
+    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -628,7 +633,7 @@
   
   <url>
     <loc>https://uuoofan.github.io/post/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -688,7 +693,7 @@
   
   <url>
     <loc>https://uuoofan.github.io/categories/%E4%B8%80%E5%88%86%E6%B5%81%E6%B0%B4/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -706,18 +711,18 @@
   
   <url>
     <loc>https://uuoofan.github.io/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://uuoofan.github.io/categories/%E5%8F%8D%E7%9C%81/</loc>
-    <lastmod>2017-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://uuoofan.github.io/tags/%E5%8F%8D%E7%9C%81/</loc>
+    <lastmod>2017-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://uuoofan.github.io/categories/%E5%8F%8D%E7%9C%81/</loc>
     <lastmod>2017-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -754,7 +759,7 @@
   
   <url>
     <loc>https://uuoofan.github.io/tags/%E6%80%BB%E8%AF%B4%E6%B2%A1%E6%9C%89%E8%AF%9D/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -777,14 +782,14 @@
   </url>
   
   <url>
-    <loc>https://uuoofan.github.io/categories/%E6%B5%81%E6%B0%B4/</loc>
-    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+    <loc>https://uuoofan.github.io/tags/%E6%B5%81%E6%B0%B4/</loc>
+    <lastmod>2010-06-07T08:24:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://uuoofan.github.io/tags/%E6%B5%81%E6%B0%B4/</loc>
-    <lastmod>2010-06-07T08:24:00-07:00</lastmod>
+    <loc>https://uuoofan.github.io/categories/%E6%B5%81%E6%B0%B4/</loc>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
