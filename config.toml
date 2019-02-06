@@ -1,37 +1,44 @@
 baseurl = "https://uuoofan.github.io/"
-relativeurls = true
-languageCode = "en-us"
 title = "午飯網絡日誌"
-theme = "hugo-lithium-theme"
+author = "UUoo Fan"
+relativeurls = true
+canonifyurls = true
+languagecode = "en"
+paginate = 3
+theme = "hugo-renga"
+
+enableEmoji = true
+hasCJKLanguage = true
+
 googleAnalytics = "UA-98330599-2"
-disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
-    post = ":year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "About"
-    url = "about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/uuoofan"
+    blog = ":year/:month/:day/:slug/"
 
 [params]
-    description = "午飯網絡日誌"
+pagetitle = "午飯網絡日誌"
+copyright = "© 2010 -- 2019 UUoo Fan"
+copyrightUrl = "https://uuoofan.github.io/"
+faviconfile = "image/fan.png"
+logofile = "image/fan.png"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+github = "uuoofan"
+email = "uuoofan@gmail.com"
 
-    MathJaxCDN = "//cdn.bootcss.com"
-    MathJaxVersion = "2.7.1"
+[[menu.primary]]
+identifier = "about"
+name = "本人"
+url = "/about/"
+weight = 10
 
-    [params.logo]
-    url = "fan.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
+[[menu.primary]]
+identifier = "blog"
+name = "日誌"
+url = "/blog/"
+weight = 2
