@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/tags/la/</link>
+    <link>/tags/la/</link>
     <description>Recent content in La on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 May 2012 03:51:55 +0000</lastBuildDate>
     
-	<atom:link href="https://uuoofan.github.io/tags/la/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/la/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>二十天倒计时</title>
-      <link>https://uuoofan.github.io/2012/05/23/count-down-20/</link>
+      <link>/2012/05/23/count-down-20/</link>
       <pubDate>Wed, 23 May 2012 03:51:55 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2012/05/23/count-down-20/</guid>
+      <guid>/2012/05/23/count-down-20/</guid>
       <description>还有二十天，大部分这学期的事情就会结束。离comprehensive还有整一周，各种事还是乱成一团。早上又因为要做报告而早醒，7点刚过就坐在</description>
     </item>
     
     <item>
       <title>乱世</title>
-      <link>https://uuoofan.github.io/2012/04/12/chaotic/</link>
+      <link>/2012/04/12/chaotic/</link>
       <pubDate>Thu, 12 Apr 2012 07:14:03 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2012/04/12/chaotic/</guid>
+      <guid>/2012/04/12/chaotic/</guid>
       <description>晚饭后，一个人憋在屋里写作业。不过我无法抵挡去看新闻和刷推的诱惑。薄爷彻底倒了，今天看到的是一片拥护之声。看着新闻联播的剪辑，不禁放声大笑—</description>
     </item>
     
     <item>
       <title>闰</title>
-      <link>https://uuoofan.github.io/2012/03/01/leap-year/</link>
+      <link>/2012/03/01/leap-year/</link>
       <pubDate>Thu, 01 Mar 2012 06:12:41 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2012/03/01/leap-year/</guid>
+      <guid>/2012/03/01/leap-year/</guid>
       <description>鉴于每四年才有这么一天，于是决定写点流水帐。 在地下室呆了有快半个月，慢慢有了些感觉，不会因为没有放音乐就昏昏欲睡。效率还是很成问题：虽然昨天</description>
     </item>
     

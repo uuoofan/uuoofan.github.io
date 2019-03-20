@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fiji on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/tags/fiji/</link>
+    <link>/tags/fiji/</link>
     <description>Recent content in Fiji on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Nov 2012 01:55:57 +0000</lastBuildDate>
     
-	<atom:link href="https://uuoofan.github.io/tags/fiji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/fiji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wandering</title>
-      <link>https://uuoofan.github.io/2012/11/03/wandering/</link>
+      <link>/2012/11/03/wandering/</link>
       <pubDate>Sat, 03 Nov 2012 01:55:57 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2012/11/03/wandering/</guid>
+      <guid>/2012/11/03/wandering/</guid>
       <description>草草地做了饭，吃下，我就抱着篮球出门了。天已黑，正合适，谁让自己也不太敢在白天现眼呢。小教堂前的球场停满了晚上来这里看书的老人的车，不过教堂</description>
     </item>
     
     <item>
       <title>紫色莫西干</title>
-      <link>https://uuoofan.github.io/2012/01/02/purple-mexican/</link>
+      <link>/2012/01/02/purple-mexican/</link>
       <pubDate>Mon, 02 Jan 2012 00:13:19 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2012/01/02/purple-mexican/</guid>
+      <guid>/2012/01/02/purple-mexican/</guid>
       <description>2012年的第一天在Yucatan小城Valladolid的广场上开始。稀疏的烟火，互相问候的游客，坐在墙角燃烧的2011年。 早晨懒懒地9点</description>
     </item>
     

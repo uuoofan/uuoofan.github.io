@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>自言自語 on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/tags/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/</link>
+    <link>/tags/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/</link>
     <description>Recent content in 自言自語 on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://uuoofan.github.io/tags/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>群</title>
-      <link>https://uuoofan.github.io/2016/03/23/group/</link>
+      <link>/2016/03/23/group/</link>
       <pubDate>Wed, 23 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2016/03/23/group/</guid>
+      <guid>/2016/03/23/group/</guid>
       <description>記得小時候課本里有講，“人能群”。自然，人不是唯一常以群體出現的物種，但人因之而定義自己的社會性，我想是有區別於一般群居生活生物的意義的（至</description>
     </item>
     
     <item>
       <title>洛杉矶的雨天</title>
-      <link>https://uuoofan.github.io/2011/10/06/rainy-days-in-la/</link>
+      <link>/2011/10/06/rainy-days-in-la/</link>
       <pubDate>Thu, 06 Oct 2011 07:35:45 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2011/10/06/rainy-days-in-la/</guid>
+      <guid>/2011/10/06/rainy-days-in-la/</guid>
       <description>今天从早晨到傍晚下了一天的雨，而且还是很认真地下。这在洛杉矶是不太常见的，尤其是现在还没有入冬。在一个很少下雨的地方下一场雨是幸福的——洛 杉</description>
     </item>
     

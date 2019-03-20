@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Movie on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/tags/movie/</link>
+    <link>/tags/movie/</link>
     <description>Recent content in Movie on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 14 Jan 2013 04:26:09 +0000</lastBuildDate>
     
-	<atom:link href="https://uuoofan.github.io/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/movie/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>欢乐</title>
-      <link>https://uuoofan.github.io/2013/01/14/happiness/</link>
+      <link>/2013/01/14/happiness/</link>
       <pubDate>Mon, 14 Jan 2013 04:26:09 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2013/01/14/happiness/</guid>
+      <guid>/2013/01/14/happiness/</guid>
       <description>再过一个小时不到，就又是周一。我想这个学期我将会在每一个这样的时刻深深吸一口气。两天的周末没有学习，只是因为周五加班工作了一天，就赶上流感了</description>
     </item>
     
