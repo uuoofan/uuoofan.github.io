@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>回忆 on 午飯網絡日誌</title>
-    <link>/tags/%E5%9B%9E%E5%BF%86/</link>
+    <link>https://uuoofan.github.io/tags/%E5%9B%9E%E5%BF%86/</link>
     <description>Recent content in 回忆 on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 May 2012 02:19:45 +0000</lastBuildDate>
     
-	<atom:link href="/tags/%E5%9B%9E%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uuoofan.github.io/tags/%E5%9B%9E%E5%BF%86/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>捡破烂</title>
-      <link>/2012/05/13/garbage-collecting/</link>
+      <link>https://uuoofan.github.io/2012/05/13/garbage-collecting/</link>
       <pubDate>Sun, 13 May 2012 02:19:45 +0000</pubDate>
       
-      <guid>/2012/05/13/garbage-collecting/</guid>
+      <guid>https://uuoofan.github.io/2012/05/13/garbage-collecting/</guid>
       <description>下午从图书馆出来回coop的路上，看到了路边有一根坏掉的铅笔。我捡了起来，瞅了瞅，发现笔芯貌似都没有了，于是很快又丢到了花丛里。 简单的几个动</description>
     </item>
     

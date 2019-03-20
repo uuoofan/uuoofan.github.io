@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ty on 午飯網絡日誌</title>
-    <link>/tags/ty/</link>
+    <link>https://uuoofan.github.io/tags/ty/</link>
     <description>Recent content in Ty on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 29 Aug 2013 16:06:29 +0000</lastBuildDate>
     
-	<atom:link href="/tags/ty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uuoofan.github.io/tags/ty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>影子</title>
-      <link>/2013/08/29/shadow/</link>
+      <link>https://uuoofan.github.io/2013/08/29/shadow/</link>
       <pubDate>Thu, 29 Aug 2013 16:06:29 +0000</pubDate>
       
-      <guid>/2013/08/29/shadow/</guid>
+      <guid>https://uuoofan.github.io/2013/08/29/shadow/</guid>
       <description>上午的时候在家里教爷爷用ipad打字。爷爷手有些抖，看屏幕上的按键也有些吃力，但他还是信心满满地在照着报纸打字，念叨着“要是早点有这个可就省</description>
     </item>
     
