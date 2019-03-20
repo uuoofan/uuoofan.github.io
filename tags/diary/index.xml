@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary on 午飯網絡日誌</title>
-    <link>/tags/diary/</link>
+    <link>https://uuoofan.github.io/tags/diary/</link>
     <description>Recent content in Diary on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uuoofan.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>時間統計</title>
-      <link>/2017/05/06/time-stats/</link>
+      <link>https://uuoofan.github.io/2017/05/06/time-stats/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/06/time-stats/</guid>
+      <guid>https://uuoofan.github.io/2017/05/06/time-stats/</guid>
       <description>雖然從公共圖書館借來很多書，但是最近讀的最多的還是姐姐推薦的一本小書，叫『奇特的一生』。 說不清是一本什麼樣的書，貌似是小說，但是似乎又有濃濃</description>
     </item>
     
