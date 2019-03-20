@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bla on 午飯網絡日誌</title>
-    <link>https://uuoofan.github.io/tags/bla/</link>
+    <link>/tags/bla/</link>
     <description>Recent content in Bla on 午飯網絡日誌</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://uuoofan.github.io/tags/bla/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/bla/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How important is it to keep alive?</title>
-      <link>https://uuoofan.github.io/2017/05/26/is-it-important-to-alive/</link>
+      <link>/2017/05/26/is-it-important-to-alive/</link>
       <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://uuoofan.github.io/2017/05/26/is-it-important-to-alive/</guid>
+      <guid>/2017/05/26/is-it-important-to-alive/</guid>
       <description>下午請假到玫瑰花看神經科大夫。經過了護士的生命特徵測量和見習醫生的問話後，醫生姍姍來遲，迎面就講 「I am Dr. Murphy. How are you?」 我於是再次為大醫院的</description>
     </item>
     
