@@ -34,7 +34,6 @@ vignettes/*.pdf
 *.knit.md
 
 # System files
-.gitignore
 .DS_Store
 .Rproj.user
 
